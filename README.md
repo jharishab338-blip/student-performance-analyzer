@@ -71,6 +71,6 @@ This project can be extended with data storage, CSV file handling, and data visu
 
 ---
 
-**Author:** Your Name
+**Author:** Rishab Ramesh Jha
 
 **Project:** Student Performance Analyzer
